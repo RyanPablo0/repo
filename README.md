@@ -1,3 +1,3 @@
 # Demo
 
-Simple Project
+Simple Project!
